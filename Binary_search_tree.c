@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 #include <malloc.h>
 struct node{
     struct node *left;
